@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>6344aa88db8e630051cefb371d9619fd</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_cfg_chef_credentials">
+    <sn_cfg_chef_credentials action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_key>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</admin_key>
+        <admin_name>cmpdev</admin_name>
+        <applies_to>all</applies_to>
+        <authentication_key/>
+        <authentication_protocol/>
+        <cert_key>3fcT/xFPQYsC82OTj7sDD2jAXrn677Ve/9m2Lg1NOF9IGA0YPn3bIGdpUOzABohG/63domKQ4n+dCBL0eRXcfVmDPMLnSbxOsZn0azkILU5C9dX5X4LUh/ow6iTk1a+GVCl48I3X4wUgH8pDB77bYDozd6nGKGmTVyauSge4kAmyVH18cLmybYKGIpa/LntEzL7IKZEDcvZc22Mggc4074Rs0oty5OMWHGf87YW0rIw/QciApLJuz97JqbTq3fsT00ft7pAga6bFdD18E5Pewyp4mg7TNADXUwMieI6aEZBKcYUHfTFCE170aGMZ+bQhbY1RCImlEp8EutvzbmVf4WwlZph86272BNyATR8NB3+FHR9XwCcg7+Rrc6CL+gm6B0SOrlItWN+3RvEYZd9Bg+TyNLI+8utUMxA/qxnCU9vD5uAMo/1UNNW6NEZAD2y5F+iK3tqrzlyiLV0oEHKXiGNSX8uZb7/LFrw6akaqggpPvyJ4fTj9VSzsc+MDoGUiWTzQqdrRe3wYkM99rrUMQsSq2BdY6g+i/bQPJOHwzzzcu+JJlWjaMs5cBSg8fNFZYvi443lGZwPt4vnOf5VbbEnFhUnh3HsMbEAmeg2iFILWtVGI4dsPCsnsuYtXkrHkGmga5CgZIyuYsEvxXAQkEEJopjmsq3FUc1ZD5RLtxl0fWMVh8fLD2/kUt7iOXTGiOvbnYi31mYlNcvPx9beNs2yEpPduG/R57y6qjXEcw/TUt5Srrfnx5583Hc+zkcM4cN3M3m6F5Ocl3itBIzzr3scGAFQxOIiYrGIPRy59YAbNU6N8vIv4sKeLFWWkwpSim9J76SN9Z72PCHT2qnVk6mirEGSgrdn4h2t5xYooLPiok5g8gL1ZYyKrpjsfa9OVlmE4SSgq+Cw+Kk9GLSU1nd+YyKncHXWSr958Wwp+ZNsPIUi/8Va3fBioqXQTfEmVhgW7VRx3x4D5jvlyCUPcDkcUZb67J9GbPAh53rYd/Hw8WxqERlzGr2Zowx3dlgjiWlYQUykUwQrtLj9sc7KQZ311eZ6UeqjH4G3iomyTlI8JaCn3d4CFpqcL+PXCwx2mlSXOfDmwtiqNi9TcU3dLCSL8IYAwK6z9lsqR7/PDUmv9/21S5MpSsEjRpBO3KnDrGgkstjhRrGACC0N/r+Y/n5+42s6XQ4/vm75d0/ygoimV64i1ewHgXTngiN6WqSeloZfU2uQa8rSDj6zImiXAIlQpePCN1+MFIB/KQwe+22D8s6ZZ64bQ99BEpuotVNCBFRmhYNZ1DBEq6QnRHCLSHutrvhxGslgYU/RzT4iq42kpH89EAwoX9hxn/O2FtKyMP0HIgKSybs9raarJSzO5ZoTHj0p8e0IGSdJKUP1XQvmni4jW657BbgXf8yd59XvBo24x8i8GNqK0/b/nEKznn0f4RAmFyzOwwXuPylK66GhYusGN8kegm+rA1bf5LLMDIgl2RvzCAd39ToQDOphEq2jO56+2GHW19Z2XeHI9MChoVQgWnACqJsX6oVy+7Ro5ttly9/49GELxpoICKhlcjoHEnAbykr7LlNi+sZxf1QUgccZhuL5U/3MJzJHRhobeF8SDUtXqWzlpgzRY6+mvFyrFq0TfxtN7ZQuhCtINQlbhAvvi3esgfAvXw6QtRHAIZr+csFxhrfVtxfEbld42flL1kBU/pUXiwSMWRJc4BkRGXS6S9/twnUH3Y07sYDCC+gGrrurLjiWGwanMGpEdc3LoSVvvkLAAgxVl5yMx9iTMkyG5RUCG2yQNmHgPC7VvDDynid2KMVMfZWuNiKoYhyxy+ZrqqteHnl4JFuzDSHQ2HebDXhNR57/hvJ0rF3Xt8zfcStSSkqL1yFgfAJVLfZGg62RMJAu0B0KfbdOo7FyAHwK1deWibfn12GpVYRT9L21zahfn5Bo=</cert_key>
+        <cert_name>chef12.itomcmp.servicenow.com.crt</cert_name>
+        <classification>cfg_chef_credentials</classification>
+        <mid_list/>
+        <name>Chef Server Credentials</name>
+        <order>100</order>
+        <password/>
+        <privacy_key/>
+        <privacy_protocol/>
+        <ssh_passphrase/>
+        <ssh_private_key/>
+        <sys_class_name>sn_cfg_chef_credentials</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-23 16:43:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6344aa88db8e630051cefb371d9619fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-23 16:43:42</sys_updated_on>
+        <tag/>
+        <type>cfg_chef_credentials</type>
+        <user_name/>
+        <validator_key>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</validator_key>
+        <validator_name>itomcmp-validator</validator_name>
+    </sn_cfg_chef_credentials>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-06 08:42:34</sys_created_on>
+        <sys_id>aec37f84db1a6300fc7dfd131d9619d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Chef Server Credentials</sys_name>
+        <sys_package display_value="CHEF" source="x_snc_chef">11917740db1a6300fc7dfd131d961974</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CHEF">11917740db1a6300fc7dfd131d961974</sys_scope>
+        <sys_update_name>sys_metadata_link_aec37f84db1a6300fc7dfd131d9619d1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-06 08:42:34</sys_updated_on>
+        <tablename>sn_cfg_chef_credentials</tablename>
+    </sys_metadata_link>
+</record_update>
